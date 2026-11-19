@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left">I'm a software developer passionate about turning ideas into functional, user-friendly applications. I enjoy working across the stack, writing clean code, and continuously exploring new technologies to solve real-world problems.<br><br>- 🔭 **Currently working on:** Building modern web applications & sharpening my backend architecture<br>- 🌱 **Currently learning:** System design, API engineering, and deeper low-level concepts<br>- 💬 **Ask me about:** Web development, JavaScript/TypeScript, and building projects from scratch<br>- ⚡ **Fun fact:** Always looking for the cleanest way to write a function</p>
+<p data-importer="text" align="left">I'm a software developer passionate about turning ideas into functional, user-friendly applications. I enjoy working across the stack, writing clean code, and continuously exploring new technologies to solve real-world problems.<br><br>- 🔭 Currently working on: Building modern web applications & sharpening my backend architecture<br>- 🌱 Currently learning: System design, API engineering, and deeper low-level concepts<br>- 💬 Ask me about: Web development, JavaScript/TypeScript, and building projects from scratch<br>- ⚡ Fun fact: Always looking for the cleanest way to write a function</p>
 
 ###
 
